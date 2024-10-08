@@ -22,3 +22,5 @@ git stash pop(put all that changes to unstaging area)
 git stash clear(delete the changes)
 
 My feature changes here 
+new changes in the 5th document
+My 6th changes extrapolated changes
