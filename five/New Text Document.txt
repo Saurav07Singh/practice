@@ -1,0 +1,22 @@
+git init
+
+git add .
+git add fileName.txt
+
+git commit -m "Message in quotes"
+
+git restore --staged fileName.txt (To unstaged the file)
+
+git -log
+
+git reset (ID) jumping to the commits 
+// all the IDs above that (ID) will go to the unstaging area
+
+//suppose you made some changes and you have to start fresh and dont want to loose these changes also so you can first stage the changes and then use git stash
+git add .
+git status
+git stash 
+
+git stash pop(put all that changes to unstaging area)
+
+git stash clear(delete the changes)
