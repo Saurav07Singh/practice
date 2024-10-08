@@ -20,3 +20,5 @@ git stash
 git stash pop(put all that changes to unstaging area)
 
 git stash clear(delete the changes)
+
+new changes in the 5th document
